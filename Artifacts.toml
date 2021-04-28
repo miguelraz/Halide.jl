@@ -1,0 +1,6 @@
+[Halide]
+git-tree-sha1 = "467a0cfb0d632e70b1426f331142ab1f0bfb4e42"
+
+    [[Halide.download]]
+    sha256 = "36c196e83c6727b358ea2bbeb60a70c491c698b0b95da6c07d5028f94a30c61c"
+    url = "https://github.com/halide/Halide/releases/download/v10.0.0/Halide-10.0.0-x86-64-linux-db901f7f7084025abc3cbb9d17b0f2d3f1745900.tar.gz"
